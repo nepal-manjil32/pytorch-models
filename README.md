@@ -15,4 +15,3 @@ A collection of PyTorch implementations for various machine learning and deep le
 
 ## Support
 If you find this repository helpful, please ⭐ it to show your support!
-```
