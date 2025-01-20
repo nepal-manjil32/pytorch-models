@@ -1,4 +1,4 @@
-# <img src='./pytorch.png' width='20px'/> PyTorch-Models
+# <img src='./pytorch.png' width='25px'/> PyTorch-Models
 
 A collection of PyTorch implementations for various machine learning and deep learning tasks.
 
